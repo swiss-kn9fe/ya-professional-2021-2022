@@ -5,3 +5,6 @@
 Дамп трафика: https://disk.yandex.ru/d/tZZtFP28QF1lVA
 
 формат ответа: itmo{...}
+
+## Решение
+![image](https://user-images.githubusercontent.com/49597727/146970353-c013a19f-f3ca-4f5d-9783-275784d71c49.png)
